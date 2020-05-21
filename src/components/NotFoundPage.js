@@ -4,11 +4,9 @@ import { Link } from "react-router-dom";
 function NotFoundPage() {
   return (
     <div>
-      <h2 className="jumbotron">Page Not Found</h2>
+      <h2>Page Not Found</h2>
       <p>
-        <Link to="/" className="btn btn-warning">
-          Back to home
-        </Link>
+        <Link to="/">Back to Home</Link>
       </p>
     </div>
   );

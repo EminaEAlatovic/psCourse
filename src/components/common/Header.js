@@ -9,14 +9,15 @@ function Header() {
         Home
       </NavLink>
       {" | "}
-      <NavLink activeStyle={activeStyle} to="/about">
-        About
-      </NavLink>
-      {" | "}
       <NavLink activeStyle={activeStyle} to="/courses">
         Courses
+      </NavLink>
+      {" | "}
+      <NavLink activeStyle={activeStyle} to="/about">
+        About
       </NavLink>
     </nav>
   );
 }
+
 export default Header;
