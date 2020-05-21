@@ -1,6 +1,3 @@
-Ovo je App za Eminu da pregleda.
-
-Sve u folderu tools sam kopirao, i nije moj rad.
-Sve ostalo sam sam napravio.
-Čekam code-review Emina
-:)
+Working on example exercises by the Pluralsight course under the name 
+###Building Applications with React and Flux 
+by Cory House
